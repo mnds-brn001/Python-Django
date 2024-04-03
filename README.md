@@ -1,2 +1,2 @@
 # Python-Django
-Estudo da linguagem
+Estudo sobre o FrameWork __*voltado ao desenvolvimento Web*__.
